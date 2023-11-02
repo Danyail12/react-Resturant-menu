@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+
+}
+
+#navbar{
+    font-weight: bold;
+    background-color: black;
+    color: #ffff;
+}
+
+#navbar ul{
+    text-decoration: none;
+
+}
+
+#navbar li{
+    display: flex;
+}
